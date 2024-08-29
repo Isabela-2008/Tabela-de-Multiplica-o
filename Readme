@@ -1,0 +1,25 @@
+Enunciado do Projeto
+Título: Gerador de Tabela de Multiplicação
+
+Descrição:
+Desenvolva um programa em Python que solicita ao usuário a entrada de um número inteiro e, em seguida, gera e exibe a tabela de multiplicação desse número, de 1 a 10.
+
+Requisitos:
+
+Solicitar ao usuário que insira um número inteiro.
+Utilizar um loop for para gerar a tabela de multiplicação do número fornecido, de 1 a 10.
+Exibir cada linha da tabela de multiplicação no formato: número x i = resultado.
+
+# Gerador de Tabela de Multiplicação
+
+## Descrição
+Este projeto implementa um gerador de tabela de multiplicação em Python. O programa solicita ao usuário que insira um número inteiro e, em seguida, exibe a tabela de multiplicação desse número, de 1 a 10.
+
+## Funcionalidades
+- Geração de tabela de multiplicação para um número inteiro fornecido pelo usuário.
+- Exibição da tabela no formato: `número x i = resultado`.
+
+## Como Executar
+1. Clone o repositório para sua máquina local.
+   ```bash
+   git clone https://github.com/seu_usuario/gerador-tabela-multiplicacao.git
